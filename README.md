@@ -3,6 +3,8 @@ For Data Warehouse Course
 
 ## Introduce Analyst
 Name : Apichai Aimwong
+
+Nickname : Tonkla
 673020269-7 SIDS
 
 ---
